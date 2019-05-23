@@ -1,0 +1,2 @@
+A Java program using Graphical User Interface(GUI), and also MVC Design Patterns, representing a calculator that can only do, right now, 
+addition and substraction over 2 numbers.
